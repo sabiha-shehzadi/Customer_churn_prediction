@@ -88,10 +88,11 @@ If you want to run this application on your own machine:
 ## 📸 Screenshots
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/429287bd-b5a5-4261-93d2-c4340ac5b8bd" />
+<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/702230e7-48cf-405d-9fae-3ac00255b152" />
 
 ## 🤝 Contact & Credits
 
-Developed by **Sabiha Khan**.  
+Developed by **Sabiha Khan**. 
 This project demonstrates the application of AI in Business Intelligence and Customer Relationship Management (CRM).
 
 [Visit Live App](https://sabihakhan-customer-churn-khan.hf.space)
