@@ -87,9 +87,7 @@ If you want to run this application on your own machine:
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your dashboard here if you have one)*
-
----
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/429287bd-b5a5-4261-93d2-c4340ac5b8bd" />
 
 ## 🤝 Contact & Credits
 
